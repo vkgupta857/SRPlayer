@@ -1,5 +1,5 @@
 # SRPlayer
-A music player made using SwiftUI
+A music player made for iOS devices using SwiftUI.
 
 ### Tools used
 - XCode 13.2.1
